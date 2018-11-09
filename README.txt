@@ -1,4 +1,4 @@
-# Docker-Redmine
+# Docker-Redmine+MYSQL
 
 First it need to Install docker compose
 =========================================
