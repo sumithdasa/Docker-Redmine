@@ -19,6 +19,6 @@ Steps
   5 visit 
          http://localhost:8080, or http://host-ip:8080 (as appropriate).
   6 Default username and passworkd for redmine is
-    UN-Admin P-Admin
+    UN--->admin P---->admin
     (You can change it after the first login)
 
